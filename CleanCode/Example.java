@@ -2,7 +2,7 @@ package CleanCode;
 
 import java.util.Scanner;
 
-public class Example{
+public class Example {
     public static void main(String[] args) { 
         int age = 14; 
         assert age <= 18 : "Cannot Vote"; 
