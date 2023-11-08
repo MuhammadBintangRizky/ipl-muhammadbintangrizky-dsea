@@ -1,10 +1,10 @@
 package CleanCode;
 
+import java.util.Date;
+
 public class Customer {
-    class Customer { 
-        private Date generationTimestamp; 
-        private Date modificationTimestamp; 
-        private final String recordId = "102"; 
-       /* ... */ 
-    }        
+    private Date generationTimestamp; 
+    private Date modificationTimestamp; 
+    private final String recordId = "102"; 
+    /* ... */ 
 }
