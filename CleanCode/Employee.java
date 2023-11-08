@@ -1,6 +1,6 @@
 package CleanCode;
 
-class Employee{ 
+class Employee { 
     public void payAmount()
     int payAmount() { 
         switch (getType()) { 
